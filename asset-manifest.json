@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/proportions-crop-image/static/css/main.cc7f32ec.chunk.css",
-    "main.js": "/proportions-crop-image/static/js/main.58faf0fb.chunk.js",
-    "main.js.map": "/proportions-crop-image/static/js/main.58faf0fb.chunk.js.map",
+    "main.js": "/proportions-crop-image/static/js/main.71f35370.chunk.js",
+    "main.js.map": "/proportions-crop-image/static/js/main.71f35370.chunk.js.map",
     "runtime-main.js": "/proportions-crop-image/static/js/runtime-main.82cde466.js",
     "runtime-main.js.map": "/proportions-crop-image/static/js/runtime-main.82cde466.js.map",
     "static/css/2.c61ffb77.chunk.css": "/proportions-crop-image/static/css/2.c61ffb77.chunk.css",
-    "static/js/2.08de6ae8.chunk.js": "/proportions-crop-image/static/js/2.08de6ae8.chunk.js",
-    "static/js/2.08de6ae8.chunk.js.map": "/proportions-crop-image/static/js/2.08de6ae8.chunk.js.map",
+    "static/js/2.b6379ca3.chunk.js": "/proportions-crop-image/static/js/2.b6379ca3.chunk.js",
+    "static/js/2.b6379ca3.chunk.js.map": "/proportions-crop-image/static/js/2.b6379ca3.chunk.js.map",
     "index.html": "/proportions-crop-image/index.html",
-    "precache-manifest.08dd792a578f0aa700db6670005f749b.js": "/proportions-crop-image/precache-manifest.08dd792a578f0aa700db6670005f749b.js",
+    "precache-manifest.db94f5dfdb4acc2d391b0e464030d3c2.js": "/proportions-crop-image/precache-manifest.db94f5dfdb4acc2d391b0e464030d3c2.js",
     "service-worker.js": "/proportions-crop-image/service-worker.js",
     "static/css/2.c61ffb77.chunk.css.map": "/proportions-crop-image/static/css/2.c61ffb77.chunk.css.map",
     "static/css/main.cc7f32ec.chunk.css.map": "/proportions-crop-image/static/css/main.cc7f32ec.chunk.css.map",
-    "static/js/2.08de6ae8.chunk.js.LICENSE.txt": "/proportions-crop-image/static/js/2.08de6ae8.chunk.js.LICENSE.txt",
+    "static/js/2.b6379ca3.chunk.js.LICENSE.txt": "/proportions-crop-image/static/js/2.b6379ca3.chunk.js.LICENSE.txt",
     "static/media/building-01-bw.png": "/proportions-crop-image/static/media/building-01-bw.9186d37a.png",
     "static/media/building-01-orig.png": "/proportions-crop-image/static/media/building-01-orig.973ed778.png",
     "static/media/building-01-sepia.png": "/proportions-crop-image/static/media/building-01-sepia.95d280bc.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.82cde466.js",
     "static/css/2.c61ffb77.chunk.css",
-    "static/js/2.08de6ae8.chunk.js",
+    "static/js/2.b6379ca3.chunk.js",
     "static/css/main.cc7f32ec.chunk.css",
-    "static/js/main.58faf0fb.chunk.js"
+    "static/js/main.71f35370.chunk.js"
   ]
 }

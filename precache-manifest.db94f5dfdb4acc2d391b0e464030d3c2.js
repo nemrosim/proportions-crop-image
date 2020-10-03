@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "979248bda548e407f5bbca770f2cbd92",
+    "revision": "c9d95cf1bcf94a415e8e914933292a89",
     "url": "/proportions-crop-image/index.html"
   },
   {
-    "revision": "a60111434d451cd7239e",
+    "revision": "4e91ae7ec10604bb08b8",
     "url": "/proportions-crop-image/static/css/2.c61ffb77.chunk.css"
   },
   {
-    "revision": "b21e63796019d2607a62",
+    "revision": "9af95175dc16205a0000",
     "url": "/proportions-crop-image/static/css/main.cc7f32ec.chunk.css"
   },
   {
-    "revision": "a60111434d451cd7239e",
-    "url": "/proportions-crop-image/static/js/2.08de6ae8.chunk.js"
+    "revision": "4e91ae7ec10604bb08b8",
+    "url": "/proportions-crop-image/static/js/2.b6379ca3.chunk.js"
   },
   {
     "revision": "828217d13dbb19a1bbd4bff229975b26",
-    "url": "/proportions-crop-image/static/js/2.08de6ae8.chunk.js.LICENSE.txt"
+    "url": "/proportions-crop-image/static/js/2.b6379ca3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b21e63796019d2607a62",
-    "url": "/proportions-crop-image/static/js/main.58faf0fb.chunk.js"
+    "revision": "9af95175dc16205a0000",
+    "url": "/proportions-crop-image/static/js/main.71f35370.chunk.js"
   },
   {
     "revision": "eaf96df6a4c4e98bae8a",
