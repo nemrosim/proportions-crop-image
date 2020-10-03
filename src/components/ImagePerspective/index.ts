@@ -1,1 +1,0 @@
-export {ImagePerspective} from './ImagePerspective';
