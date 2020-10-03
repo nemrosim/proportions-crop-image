@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import Button from '@material-ui/core/Button';
 import { IMAGE_TYPES } from "../../constants/ImageTypes";
-import { ButtonGroup } from "@material-ui/core";
+import { ButtonGroup, Grid } from "@material-ui/core";
 import { ApiImagesContext } from "../ImagesContext";
 import { CropImageContext } from "../CropImage";
 
@@ -53,7 +53,7 @@ export const WallpaperStyleSelectors: React.FC = () => {
     };
 
     return (
-        <>
+        <Grid item={true} xs={12}>
             <ButtonGroup
                 fullWidth={true}
                 color="primary"
@@ -78,6 +78,6 @@ export const WallpaperStyleSelectors: React.FC = () => {
                     Отзеркалить
                 </Button>
             </ButtonGroup>
-        </>
+        </Grid>
     );
 };

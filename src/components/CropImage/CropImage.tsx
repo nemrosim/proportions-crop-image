@@ -25,7 +25,6 @@ export const CropImage = () => {
     const createAndSetCropperJsInstance = (): void => {
 
         if (imageHeight && imageWidth && cropJsImageRef) {
-            console.log('HELLOO')
             const options = {
                 aspectRatio: imageWidth / imageHeight,
                 preview: '.img-preview',
@@ -72,7 +71,6 @@ export const CropImage = () => {
                     style={{maxWidth: '100%'}}
                     src={wallpaperImage?.original}
                     onLoad={() => {
-                        console.log('ON LOAD')
                         if (!cropperInstance) {
                             createAndSetCropperJsInstance();
                         }

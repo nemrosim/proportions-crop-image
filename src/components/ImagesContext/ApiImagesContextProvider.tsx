@@ -22,10 +22,7 @@ export const ApiImagesContextProvider: React.FC = ({children}) => {
         setIsRoomImagesLoading(true);
         axiosInstance.get(ENDPOINTS.GET_IMAGE_CHILDREN_ROOMS).then(({data})=>{
 
-            setRoomImages(()=>{
-                console.log('setting', data)
-                return data;
-            });
+            setRoomImages(data);
             setIsRoomImagesLoading(false)
         })
 
